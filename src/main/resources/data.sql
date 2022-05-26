@@ -1,0 +1,1 @@
+INSERT INTO books (isbn, title, price) VALUES ('1', 'The Two Towers', '5567');
